@@ -1,0 +1,16 @@
+h1 {
+    background-color: blue;
+    display: inline;
+}
+
+span {
+    background-color: crimson;
+    display: inline-block;
+    height: 20px;
+    margin: 10px;
+}
+
+a {
+    background-color: darkgrey;
+    display: block;
+}
